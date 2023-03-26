@@ -12,6 +12,12 @@ const unlockables: Unlockable[] = [
       "0x77f458f230112c2645facd0b9efda186212ee92d92a06226a409c0309761a74a",
     ],
   },
+  {
+    cid: "bafybeifkxchibgufjemx2aglnz7dmlcamynujywhiykd4hqex73jwcok4u",
+    nftId: [
+      "0x77f458f230112c2645facd0b9efda186212ee92d92a06226a409c0309761a74a",
+    ],
+  },
 ];
 
 export { unlockables };
