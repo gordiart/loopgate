@@ -3,19 +3,7 @@ const unlockables: Unlockable[] = [
   {
     cid: "bafybeiarfkqudaep2es6lusm6sw3dmiipanvqkxalwpon27ajszwkb3npy", //RYUI BANG FILES
     nftId: [
-      "0xfbfe83e8bbf85e787cd0f38b17804e0fe577f73911d55832bc33396cf348f5ca",
-    ],
-  },
-  {
-    cid: "bafybeiarfkqudaep2es6lusm6sw3dmiipanvqkxalwpon27ajszwkb3npy",
-    nftId: [
-      "0x77f458f230112c2645facd0b9efda186212ee92d92a06226a409c0309761a74a",
-    ],
-  },
-  {
-    cid: "bafybeiarfkqudaep2es6lusm6sw3dmiipanvqkxalwpon27ajszwkb3npy",
-    nftId: [
-      "0x77f458f230112c2645facd0b9efda186212ee92d92a06226a409c0309761a74a",
+      "0x45cde8f2973214adbb3c2d7eaa78f2bfe7eefac7f3400aa28f6bba0ee3e8f6fa", //RYUI BANG NFT ID
     ],
   },
 ];
