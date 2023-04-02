@@ -61,18 +61,6 @@ const unlockables: Unlockable[] = [
     ],
   },
   {
-    cid: "bafybeibijvxbcghefpdr6djywv262xeapclfkrjfei4ubybbiqijk3467m", //07_Thunderstrike_Ironclad_Golden_Hammer
-    nftId: [
-      "0x77f458f230112c2645facd0b9efda186212ee92d92a06226a409c0309761a74a", //07_Thunderstrike_Ironclad_Golden_Hammer NFT ID
-    ],
-  },
-  {
-    cid: "bafybeibdlb43pgqbzfy5kp54bcqdwqhbqk72aauvychlx2gzbp32hsg3si", //08_Thunderstrike_Ironclad_Silver_Hammer_3D
-    nftId: [
-      "0xba50766f7fc1b2818955f75aa24ffbcf1c0b21e1cac555bd02cd48eded66701e", //08_Thunderstrike_Ironclad_Silver_Hammer_3D NFT ID
-    ],
-  },
-  {
     cid: "bafybeigszucgfx6uhurovounysnxdiq465ofs3vz3u2jesuspyuh7w2o7u", //09_Stormpiercer_Ironclad_Golden_Spear
     nftId: [
       "0x4ace5b751398cd994ed4035a0093312cd10bd6414aae5b6f546b0ff53107bee2", //09_Stormpiercer_Ironclad_Golden_Spear NFT ID
