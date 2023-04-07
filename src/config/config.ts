@@ -120,6 +120,30 @@ const unlockables: Unlockable[] = [
       "0x23d43343dfb6b666c413ac50f0484653d6c7367dbf797aef169a55bdb884293c", //18_Deathreaper_Ironclad_Silver_Scythe NFT ID
     ],
   },
+  {
+    cid: "bafybeiddbc2niqc6wijpmy7iyec3eixp4ernyx2eqzk4ej6kfisxcifehm", //19_JomsVindr_Sword
+    nftId: [
+      "0xb962439f36e0e096cae4ac3e23d85900f0382f2fd449fcfbf4e0d98a6973d4c3", //19_JomsVindr_Sword NFT ID
+    ],
+  },
+  {
+    cid: "bafybeiho6mgewsjfnigvltien43gpl3grziijzwvhyqh4agdyfvp6xudwe", //20_Frostbite_Axe
+    nftId: [
+      "0x8ecbbd1a5abffc811656793f54a084946dd4b5d7686f3e5d450be18ba1bdc850", //20_Frostbite_Axe NFT ID
+    ],
+  },
+  {
+    cid: "bafybeierak774ftbelccxh3sw6ldliisph5magj5ltb7qskkhxp4fnz6au", //21_Oakheart_Shield
+    nftId: [
+      "0xabd2f34e72e8a183f55d46804d744ea432f332199d3f9393dea800b284409712", //21_Oakheart_Shield NFT ID
+    ],
+  },
+  {
+    cid: "bafybeibv5ssccnujzbfkb5takjum4dz3sffezv2d4f6wip66aeojvyrhvi", //22_Grimfang Daggers
+    nftId: [
+      "0x2229c293ba809c15ecc0e40f6790f7c7b1ea8cfb0c696cfb848d10aa48681daa", //22_Grimfang Daggers NFT ID
+    ],
+  },
 ];
 
 export { unlockables };
