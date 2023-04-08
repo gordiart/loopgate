@@ -61,7 +61,7 @@ const unlockables: Unlockable[] = [
     ],
   },
   {
-    cid: "bafybeigszucgfx6uhurovounysnxdiq465ofs3vz3u2jesuspyuh7w2o7u", //09_Stormpiercer_Ironclad_Golden_Spear
+    cid: "bafybeihlcjrm37aphr2ch6pjls4vjziwtvg65pmiwu2krnchz4ccjuj7ie", //09_Stormpiercer_Ironclad_Golden_Spear
     nftId: [
       "0x4ace5b751398cd994ed4035a0093312cd10bd6414aae5b6f546b0ff53107bee2", //09_Stormpiercer_Ironclad_Golden_Spear NFT ID
     ],
