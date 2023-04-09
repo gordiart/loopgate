@@ -144,6 +144,12 @@ const unlockables: Unlockable[] = [
       "0x2229c293ba809c15ecc0e40f6790f7c7b1ea8cfb0c696cfb848d10aa48681daa", //22_Grimfang Daggers NFT ID
     ],
   },
+  {
+    cid: "bafybeiex3uuzixhngswpsicx2nzau235ugvgbisvnjgmvdrtmltiho6oia", //23_cancer_sword
+    nftId: [
+      "0x9b40fe77e377ca279da8fc6316756f073918fa1f3f315477fcda5d2d2f1a3fc9", //23_cancer_sword NFT ID
+    ],
+  },
 ];
 
 export { unlockables };
