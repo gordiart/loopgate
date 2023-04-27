@@ -150,6 +150,18 @@ const unlockables: Unlockable[] = [
       "0x9b40fe77e377ca279da8fc6316756f073918fa1f3f315477fcda5d2d2f1a3fc9", //23_cancer_sword NFT ID
     ],
   },
+  {
+    cid: "bafkreiespmhjtv6hxk3ox73cqd6v5jrfwmz45psd3vww7il2ooeaajm33a", //24_Righteous Claw Sword
+    nftId: [
+      "0x06e1c3b7d4fb716cd567a3821e25c2e8ae9646529c2e569fa3875a7f974dc019", //24_Righteous Claw Sword NFT ID
+    ],
+  },
+  {
+    cid: "bafkreihw3wnh6kypjpsgykwdi5y6atin77erqhhcv3xer4xad6pqjnwwqq", //25_Razors_Fury
+    nftId: [
+      "0xbd0e2f52aa4a831c8209ce3bcafebd70748f6f8de74000a042340c131d0e3231", //25_Razors_Fury NFT ID
+    ],
+  },
 ];
 
 export { unlockables };
