@@ -162,6 +162,54 @@ const unlockables: Unlockable[] = [
       "0xbd0e2f52aa4a831c8209ce3bcafebd70748f6f8de74000a042340c131d0e3231", //25_Razors_Fury NFT ID
     ],
   },
+  {
+    cid: "bafybeicqojdnzv3cmd7uplbzwebigmdyiudtr6j6utqtkcdy2hz6jeuuxq", //Cybertigers_ens
+    nftId: [
+      "0x101517c4cb14cf0b834e5561da932a5a2adda81256675eaacc9ad5d762825128", //Cybertigers_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeigwsmneidqnmoncu5bypmxsisvvumhkgnlrrpz7bkyzjyuf6cuesu", //Herbertonic_ens
+    nftId: [
+      "0x40b76e9e6db733ff7f839bdc92e42b9b782c7a3dc66c1a3dab1e1fe9fa5746a8", //Herbertonic_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeihxofsjpp6cbs73ppkd53mvcnjkbpi43m3v4qpccotcnhntobttre", //Loffyllama_ens
+    nftId: [
+      "0x478b69aaa1d8b9511ced196fff6899ab4921219003ce68e396edf5de7a69dea5", //Loffyllama_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeibaovfebxluagnovwrjxrqclyqro5z76hmyfgcrseoj6gre6fnl7a", //Nfthumbs_ens
+    nftId: [
+      "0x0817e191299f09deac53938ea4602586236d740769d25ddacd1abe42d53ce231", //Nfthumbs_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeic4o2vbvxoilq4woe36xovid5uajf2hsekbzq5kpvqduvmc3kwvba", //ordinaryadam_ens
+    nftId: [
+      "0xce7f20e6e5174c00fc249f3c07d460407097eeae54eb3321292c5d065b35e539", //ordinaryadam_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeie3blnuz6burra6bdhlkkjpbyaubxpcnwvzf7p6hzits2k3gcfxt4", //roaring20s_ens
+    nftId: [
+      "0x0d1c1f93709bbd0901b3e70a72167c3cbf136fdc2b3e6ed4333fd8ffc01361e1", //roaring20s_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeiax5ozfd3ccnjq7j7pnyy7cq3o5v4acx4dy7tmyltlyxskb7sf5w4", //shortdestroyers_ens
+    nftId: [
+      "0x6393baf76ddef7fd5816e1ad172943775172a40bdeb830de93865bc2d827dae2", //shortdestroyers_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeie3ibowaqsn42y63nsfwfaorbnpukir6ot6lvlztppff7nhd6hx64", //vincesuarez_ens
+    nftId: [
+      "0xb9e71d47e02644e4f176ac22080e5c7cd10a3d5b1e9b6635f83b219aaab00ce3", //vincesuarez_ens NFT ID
+    ],
+  },
 ];
 
 export { unlockables };
