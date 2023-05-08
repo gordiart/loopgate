@@ -210,6 +210,66 @@ const unlockables: Unlockable[] = [
       "0xb9e71d47e02644e4f176ac22080e5c7cd10a3d5b1e9b6635f83b219aaab00ce3", //vincesuarez_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeidzwx4seuitu7hnni46ltvizxikt6zzddsezf3a6sz3ncizqhgwwu", //smileyphase_ens
+    nftId: [
+      "0xa1b1966dfaec0994170f697a7be9a34a2948839114734ff64c72f09d64afa505", //smileyphase_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeihdmtreyvw67f5ngfkgs5373kotr3t2guzrmzymjqlveuojs2lr64", //gnash_ketchum_ens
+    nftId: [
+      "0x7be61dd3d94edcd6d5d131c1ad05485c17bfb242d4ac5cc3f7d607ffa3255ca1", //gnash_ketchum_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeigmbf3nuceagwbkyi6oce35ebnyyrvaf5o6vd2b7warnoj7agxgka", //pirate_ens
+    nftId: [
+      "0xc19c4d7fb3b09acf57aafd679ddbb6fbf3c9b04f9b60cad4b460a7e944f7acf4", //pirate_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeidlkbl5wbkct2kc2fndndh3sgirs66ven4hj2gu3has6genfmbmby", //darkbridge_ens
+    nftId: [
+      "0x0bc2ff0891ea72f41af5d70d8f2dcf8ffc38e71e70215657672bd4c1b45ca3b1", //darkbridge_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeic5gcjprzgqt3ud3iavvlfvobj4at4a7vpr2clu6ag77wz465ejby", //rosar_ens
+    nftId: [
+      "0xcb026318447c17b9842bc05bbf4143189c83d6cb203071f006e15f1df748c3d8", //rosar_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeia2eo6s27v2rvkxdgpg3qihwjcyv5mynlkhcepxgbgxu2ilhgenyu", //jubjub203420_ens
+    nftId: [
+      "0x67c0ab934edf32d4298f05be50f29c4b993d4e04a7f8de266b398176f7ba6dc6", //jubjub203420_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeihmaqnfvhau5u43jiwkfxwlwptekg6nrg6z7qgjlsl2yjafljj3wi", //profchaos_ens
+    nftId: [
+      "0xdb103ae1dad23d0f76ce2ff4620b0f3f0b9aa2b74321dfb4cb1b9abbe4bab6bb", //profchaos_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeihhlke2avdecuafn7d5yoo3aqna3gvoxyazw4jtaazipe22pbswpm", //razorfang_sucks_ens
+    nftId: [
+      "0x083de44f5d93e8990fd9469901596a476561f43a8a87c1e7d5190a30763994f9", //razorfang_sucks_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeihhqqn2ualqxezhwk4iufdk4k4thsv25ce3vjciunni35qzn2lbnq", //longclaws_sucks_ens
+    nftId: [
+      "0xdf80d61a194331fe27d695492aa0d1d658180185f1c3c5a52c3d6d3e632a8275", //longclaws_sucks_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeiaqz7gqqixfgvczcdgjrpj6ihvn7pcxy7hizz4vq42wer47r5poxa", //cryptotrader_ens
+    nftId: [
+      "0xedc3f4d11bb791fad9484e59bc9170316f905bddce575a5dfa911d939f33d61d", //cryptotrader_ens NFT ID
+    ],
+  },
 ];
 
 export { unlockables };
