@@ -270,6 +270,24 @@ const unlockables: Unlockable[] = [
       "0xedc3f4d11bb791fad9484e59bc9170316f905bddce575a5dfa911d939f33d61d", //cryptotrader_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeiaq2rmxlp7zikoj2u66gf5xrjn4iu45mwmi7uif5n46rpjglvxa3i", //pepe_ens
+    nftId: [
+      "0xd129e33497d057ef068c5b37305508b7d310e65a05a5782cdfc68c27e3650581", //pepe_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeie66wxmuoa4vfcaipmiyf4obt5ysvpkn4k3pb6kr4bx4nsufeegjq", //pepish_ens
+    nftId: [
+      "0x762734d5fa08d7ce8c4740953041c5486fbf6d1fb4a833f37c0fe7b917d63533", //pepish_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeihmsacfsmf7drfq3wtrzfbhdklmyedklwtgxlpisalcwm3dqxuyqe", //lopepe_ens
+    nftId: [
+      "0x6ef4f8894e576eff1344f80cc313e091d9421ada085d78bbf628b9b47723dd49", //lopepe_ens NFT ID
+    ],
+  },
 ];
 
 export { unlockables };
