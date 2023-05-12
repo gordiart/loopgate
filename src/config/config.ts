@@ -288,6 +288,60 @@ const unlockables: Unlockable[] = [
       "0x6ef4f8894e576eff1344f80cc313e091d9421ada085d78bbf628b9b47723dd49", //lopepe_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeiblfaoex4a4tnco4glszqk3tshban4ayygdhxj5rakkr5zcae7zhe", //abante_ens
+    nftId: [
+      "0x792bb0da22c7e766b71a237405a6fde15f8a84e82f6fd71b686d6d00a8a2cdeb", //abante_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeict6ef6hmarnhkbfmrfunx26mie2scw6xy35yu5dhfbdprk2in7nm", //skunkyroad_ens
+    nftId: [
+      "0x3bed264319371e08f1e7b47567ae06074f2287339f61fabd53de1ec1f06d918c", //skunkyroad_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeib3455qj7rxb2twgbsnfseig3pdmtifvozagvoivdejtewzozpdlm", //tgreed42_ens
+    nftId: [
+      "0xf5f39185282663592017887f448dc69234b1ad0ad4cf730d7aa7070991caa682", //tgreed42_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeih3grcm55yaeenkeinxzr3qqbgwftv6ccudc67kjwiyalzgtipawm", //be_your_own_bank_ens
+    nftId: [
+      "0xc21c008b7d536af3538faff7f6d7bcb2485f59eef6ba4f2da7558605ba8ec0e7", //be_your_own_bank_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeifyflx5npp466qsbntlmp6vgtcobz46aupyriequypfvykpem3wz4", //rosar_loopring_ens
+    nftId: [
+      "0xf42dc8e90e4e0c8533849b6cf5bcf94dd435e411b34981af3665f0649d2a24e9", //rosar_loopring_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeiejhnyscw3kpsx4wv5xnl3rpkq6tigu6m3nvptk3b2elyvymkf2we", //babyscrimp_ens
+    nftId: [
+      "0x1aef66d3c31693557cc02992b7f43955ffba941144ebbb2a49a37ca3997fc87d", //babyscrimp_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeiagruugily43pzovzrh4pn4g5lxjww3bnmy5i3l5etqzddnjptyla", //turntmanjimi_ens
+    nftId: [
+      "0x7f0386eabd6e5ec8fca4dcf6a7b78ac3d4f2ec29056e169677fa348ae0176b15", //turntmanjimi_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeieihyr4cfwc54t7al5rig2nppdhvugcfdj6kok5shj42ay7zsasuu", //enchworm_ens
+    nftId: [
+      "0x0dfd495d5590932fde5d0f9cff025263adf3accdf9deb1bb2a054241fdf02a21", //enchworm_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeihldmkuroazxrag6536okow36qrl46wkm3pcwfy3q3luqcjry475e", //sryidc_ens
+    nftId: [
+      "0x3bd9d187ba16d44291071d297ae9e68278fa3724e636252d5866c947ffd9b916", //sryidc_ens NFT ID
+    ],
+  },
 ];
 
 export { unlockables };
