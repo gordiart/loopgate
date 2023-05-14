@@ -348,6 +348,24 @@ const unlockables: Unlockable[] = [
       "0x0c5f4ed6414b58e065590ad826ee013e31b7ae7a8d0c34f1a1223df9580f9224", //captain_butters_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeidllegwhkfd5io53b5kxmpd62znp6f3ajar56dj7nd2lxzzo7k7aq", //420_tril_ens
+    nftId: [
+      "0x016d5deab3eab9a6ce0154c64ced3fcd9293af846dfdb0efaddf1c8a3b8b5a04", //420_tril_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeif3qnsavtdehtpstmdq2v4j3zmwcyqhe3nt5blc2ivc33uzgxjrnq", //izitnu_ens
+    nftId: [
+      "0x11dba726e65c01da48b5bc61ff0a11923287a02685ea84a769d303bb8105d4a4", //izitnu_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeibwmcl2zrhvp2fy6cjartw4xuzr5m4fzanyilzmdly5bc6twcp5ce", //chefgoldblum_ens
+    nftId: [
+      "0x0ce0b2bfa6e0213a7c1ed81ba9455495362976a324df1eb479334b247d3424a7", //chefgoldblum_ens NFT ID
+    ],
+  },
 ];
 
 export { unlockables };
