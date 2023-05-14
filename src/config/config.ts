@@ -342,6 +342,12 @@ const unlockables: Unlockable[] = [
       "0x3bd9d187ba16d44291071d297ae9e68278fa3724e636252d5866c947ffd9b916", //sryidc_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeifoftmf5wyjcp7y5jzg4vqxjssednnuvwwzj6mtb42w47ajuvtwly", //captain_butters_ens
+    nftId: [
+      "0x0c5f4ed6414b58e065590ad826ee013e31b7ae7a8d0c34f1a1223df9580f9224", //captain_butters_ens NFT ID
+    ],
+  },
 ];
 
 export { unlockables };
