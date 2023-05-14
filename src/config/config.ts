@@ -361,9 +361,15 @@ const unlockables: Unlockable[] = [
     ],
   },
   {
-    cid: "bafybeibwmcl2zrhvp2fy6cjartw4xuzr5m4fzanyilzmdly5bc6twcp5ce", //chefgoldblum_ens
+    cid: "bafybeigsq6l4jhojav2bj6axfyuy6hqkimf2w325ikpdb3pbfu3kuvcype", //chefgoldblum_ens
     nftId: [
       "0x0ce0b2bfa6e0213a7c1ed81ba9455495362976a324df1eb479334b247d3424a7", //chefgoldblum_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeibaj2oivmgf2zrotcvv5ml4jawiymkfbcppagrzngaoj2p73yqyzy", //bwintrz_ens
+    nftId: [
+      "0x3e301404f0041a6ea723f5f93d612b51e042afe6fe0656fa85c2919220987ad0", //bwintrz_ens NFT ID
     ],
   },
 ];
