@@ -372,6 +372,12 @@ const unlockables: Unlockable[] = [
       "0x3e301404f0041a6ea723f5f93d612b51e042afe6fe0656fa85c2919220987ad0", //bwintrz_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeifhhzsxmlpkbc4oaluuyk4a4epluprztrvvyj73yuhftkk3tlnlna", //dirtay_ens
+    nftId: [
+      "0x6582b3b16a063e2e0794d2a8bede31c629f6738386e52a260ccf88c2e718edd4", //dirtay_ens NFT ID
+    ],
+  },
 ];
 
 export { unlockables };
