@@ -384,6 +384,12 @@ const unlockables: Unlockable[] = [
       "0x384f3a5716540488d809b46c81cf1606cd01d0b64890b695d7ed4e8162e9e007", //gmericahn_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeidokkstihijpnfn4sh2gkrcvqzr3bf3hlmarfdhh3kkzsurj3okjq", //standingwhitebear_ens
+    nftId: [
+      "0x175e5d5662d1b749598162b61605a046d19a7fe6e07440fc9f6edd83a3a02445", //standingwhitebear_ens NFT ID
+    ],
+  },
 ];
 
 export { unlockables };
