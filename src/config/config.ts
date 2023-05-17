@@ -390,6 +390,36 @@ const unlockables: Unlockable[] = [
       "0x175e5d5662d1b749598162b61605a046d19a7fe6e07440fc9f6edd83a3a02445", //standingwhitebear_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeiddnetfhc3qofpaynumgjfdlilta72zhir772nqwxsh2gj6lxer4i", //420_tril_2_ens
+    nftId: [
+      "add", //420_tril_2_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeigxpuhcqygs5tnstqaqsi57liipmwvebow75wblnk6brmnsyhhzsa", //420_tril_3_ens
+    nftId: [
+      "add", //420_tril_3_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeic5sj4u4xusrna2esozag6fcqc7oc6ow5zfwxgebtlh4ketz4ptmm", //deepripper_ens
+    nftId: [
+      "add", //deepripper_ens NFT ID
+    ],
+  },
+  {
+    cid: "add", //rormar_ens
+    nftId: [
+      "add", //rormar_ens NFT ID
+    ],
+  },
+  {
+    cid: "add", //thegreek_ens
+    nftId: [
+      "add", //thegreek_ens NFT ID
+    ],
+  },
 ];
 
 export { unlockables };
