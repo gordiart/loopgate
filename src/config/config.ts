@@ -393,19 +393,19 @@ const unlockables: Unlockable[] = [
   {
     cid: "bafybeiddnetfhc3qofpaynumgjfdlilta72zhir772nqwxsh2gj6lxer4i", //420_tril_2_ens
     nftId: [
-      "add", //420_tril_2_ens NFT ID
+      "0x8a751eeb68e507a1db30866b0d704ce8afe8407dbd1b3c38855ebee06248fbfa", //420_tril_2_ens NFT ID
     ],
   },
   {
     cid: "bafybeigxpuhcqygs5tnstqaqsi57liipmwvebow75wblnk6brmnsyhhzsa", //420_tril_3_ens
     nftId: [
-      "add", //420_tril_3_ens NFT ID
+      "0x29caafec4d942ac184d22f4224526f9689b7cf55a694a650a6c7a807f448789e", //420_tril_3_ens NFT ID
     ],
   },
   {
     cid: "bafybeic5sj4u4xusrna2esozag6fcqc7oc6ow5zfwxgebtlh4ketz4ptmm", //deepripper_ens
     nftId: [
-      "add", //deepripper_ens NFT ID
+      "0x3fdd1d87d31d415b2f2868d42159749e748ec59f525de8ba2fa541ae7b9731a5", //deepripper_ens NFT ID
     ],
   },
   {
