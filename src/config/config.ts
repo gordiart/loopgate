@@ -408,18 +408,6 @@ const unlockables: Unlockable[] = [
       "0x3fdd1d87d31d415b2f2868d42159749e748ec59f525de8ba2fa541ae7b9731a5", //deepripper_ens NFT ID
     ],
   },
-  {
-    cid: "add", //rormar_ens
-    nftId: [
-      "add", //rormar_ens NFT ID
-    ],
-  },
-  {
-    cid: "add", //thegreek_ens
-    nftId: [
-      "add", //thegreek_ens NFT ID
-    ],
-  },
-];
+ ];
 
 export { unlockables };
