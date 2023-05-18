@@ -408,6 +408,12 @@ const unlockables: Unlockable[] = [
       "0x3fdd1d87d31d415b2f2868d42159749e748ec59f525de8ba2fa541ae7b9731a5", //deepripper_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeifcs3kvlfu6qvt5mwntmjdlgrn2pmio3lfxj3gad5qj2mb3rr6vxu", //rormar_ens
+    nftId: [
+      "0xa42e263c0b34367a54f2ce32be3cb4fa74d461ed8c5241f1e7dc7d66932a02f9", //rormar_ens NFT ID
+    ],
+  },
  ];
 
 export { unlockables };
