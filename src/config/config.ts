@@ -420,6 +420,12 @@ const unlockables: Unlockable[] = [
       "0x154109798a56db53c489f4067256d315a5bed4d4b3501f851e6ce7326d78618f", //sadierigs_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeib3qpynklpiomdk6bzs67bbhfoxev7fmr47jn4j4hvwyi2lrzjf4a", //TheGreek_ens
+    nftId: [
+      "0xafd08719b79aecf33e4d3adc908ad3bafac24161050ce9468c5fc4965f221d0d", //TheGreek_ens NFT ID
+    ],
+  },
  ];
 
 export { unlockables };
