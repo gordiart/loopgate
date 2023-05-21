@@ -426,6 +426,18 @@ const unlockables: Unlockable[] = [
       "0xafd08719b79aecf33e4d3adc908ad3bafac24161050ce9468c5fc4965f221d0d", //TheGreek_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeiftdttpzffu6wep7dhsrzt3yngjn476vdy7ug2c37dsuyfqaei2iu", //diamondsr4lever_ens
+    nftId: [
+      "0x6b504882c534da6a1641b6df98c88e0a7ae87acde50865042b0901c79ef963f3", //diamondsr4lever_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeibg6f4ok36okwblue4kkpylbin6wz364j3fdtg2xfgwczcu2y44jy", //Jinsyn_ens
+    nftId: [
+      "0xa80e5265f4fa434f413f5fa84433b10224d59b8589b747f26363443e84d52344", //Jinsyn_ens NFT ID
+    ],
+  },
  ];
 
 export { unlockables };
