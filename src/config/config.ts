@@ -438,6 +438,18 @@ const unlockables: Unlockable[] = [
       "0xa80e5265f4fa434f413f5fa84433b10224d59b8589b747f26363443e84d52344", //Jinsyn_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeib7aollg5yvsatuuhd6utumbi6zbhbhcudevd52fj3zuqraq6rw2y", //Betty_ens
+    nftId: [
+      "0xcc429cf8108e783c0563b99e1c4c1c7face04f7c64793fb52709a4d01810741f", //Betty_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeieyekfquairmjx3lyrb5mjac3jzeqiovl3wuytrlrnhchmp7mgpym", //Razorfangs_Slayer_ens
+    nftId: [
+      "0x7413b352d598a378eb284bda1b319de8c83d34a5f363e6031176eef4c55e83ac", //Razorfangs_Slayer_ens NFT ID
+    ],
+  },
  ];
 
 export { unlockables };
