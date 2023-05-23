@@ -456,6 +456,18 @@ const unlockables: Unlockable[] = [
       "0x1b00bf498f62373d691de5c830ff6443b998d9235b0f345f4f5f0f5b9b389620", //Physical_utility_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeic64w5mnedlfrhketbfrk3h2hontts65k2fchefxleji2q5v5df2m", //26_Snakehead_axe_ens
+    nftId: [
+      "0x0cf5e46d8f3ab970c5c0de30e0bc05c511c90c4d96dc4e70986f2828835da9de", //26_Snakehead_axe_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeiapnolsgaqdhbdtugj6rutxbd2giyb32lxnt7oiguhzuzsllznr3u", //27_Serpent_Tongue_sword_ens
+    nftId: [
+      "0x96d5fc9953c6d865241dabe266b5767e73c3b250b06aaa411a449e16f2d0bd6a", //27_Serpent_Tongue_sword_ens NFT ID
+    ],
+  },
  ];
 
 export { unlockables };
