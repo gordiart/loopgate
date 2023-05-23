@@ -450,6 +450,12 @@ const unlockables: Unlockable[] = [
       "0x7413b352d598a378eb284bda1b319de8c83d34a5f363e6031176eef4c55e83ac", //Razorfangs_Slayer_ens NFT ID
     ],
   },
+  {
+    cid: "bafybeibhysj2qmtjswvy7vguxvp54tiojgakxkvtjf3jrxxgqsclf6fiba", //Physical_utility_ens
+    nftId: [
+      "0x1b00bf498f62373d691de5c830ff6443b998d9235b0f345f4f5f0f5b9b389620", //Physical_utility_ens NFT ID
+    ],
+  },
  ];
 
 export { unlockables };
