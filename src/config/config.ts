@@ -457,15 +457,22 @@ const unlockables: Unlockable[] = [
     ],
   },
   {
-    cid: "bafybeic64w5mnedlfrhketbfrk3h2hontts65k2fchefxleji2q5v5df2m", //26_Snakehead_axe_ens
+    cid: "bafybeic64w5mnedlfrhketbfrk3h2hontts65k2fchefxleji2q5v5df2m", //26_Snakehead_axe
     nftId: [
       "0x0cf5e46d8f3ab970c5c0de30e0bc05c511c90c4d96dc4e70986f2828835da9de", //26_Snakehead_axe_ens NFT ID
     ],
   },
   {
-    cid: "bafybeiapnolsgaqdhbdtugj6rutxbd2giyb32lxnt7oiguhzuzsllznr3u", //27_Serpent_Tongue_sword_ens
+    cid: "bafybeiapnolsgaqdhbdtugj6rutxbd2giyb32lxnt7oiguhzuzsllznr3u", //27_Serpent_Tongue_sword
     nftId: [
       "0x96d5fc9953c6d865241dabe266b5767e73c3b250b06aaa411a449e16f2d0bd6a", //27_Serpent_Tongue_sword_ens NFT ID
+    ],
+  },
+  {
+    cid: "bafybeif4g4tj7hyakpgitm4wnjys324n5vkna3mh6yyazjlppz6mggsoru", //obsidian_banner+wallpaper
+    nftId: [
+      "0x1283fd1439330e16204529515301f8d3ee02f30fb54c5b62820ee117e0a62828",
+      "0x667ccf9f27ab7b9cdaffed629e11ba9d6e56236b811b551e4de2e9eb42fa5abb", //obsidian_banner+wallpaper NFT ID
     ],
   },
  ];
